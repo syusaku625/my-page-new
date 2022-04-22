@@ -31,9 +31,7 @@ Education
 ============================================
 Journal Article
 ============================================
-1. Shusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and
-Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal
-pressure hydrocephalus patients", Fluids and Barriers of the CNS, in review.
+1. Shusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", Fluids and Barriers of the CNS, in review.
 
 ============================================
 International Conference
@@ -54,16 +52,16 @@ Domestic Conference
 1. 前田 修作，北出 宏紀，武石 直樹，和田 成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020．
 
 ==============================================
-Grant
+Grants
 ==============================================
-2. 次世代研究者育成プロジェクト「学際融合を推進し社会実装を担う次世代挑戦的研究者育成プロジェクト」- 600千円/年，2022年．
+2. 次世代研究者育成プロジェクト「学際融合を推進し社会実装を担う次世代挑戦的研究者育成プロジェクト」- 600千円/年，2022年4月-2025年3月．
 
-1. Σ博士未来研究助成金- 300千円/年, 2021．
+1. Σ博士未来研究助成金- 300千円/2021年度，200千円/2022年度，大阪大学．
 
 ==============================================
 Scholarship
 ==============================================
-6. 次世代研究者育成プロジェクト「学際融合を推進し社会実装を担う次世代挑戦的研究者育成プロジェクト」150千円/月, 2022年4月- 
+6. 次世代研究者育成プロジェクト「学際融合を推進し社会実装を担う次世代挑戦的研究者育成プロジェクト」150千円/月, 2022年4月-2025年3月． 
 
 5. 理工情報系オナー大学院奨学金 20千円/月, 2021年4月-2022年3月．
 
@@ -78,4 +76,4 @@ Scholarship
 ==============================================
 Award
 ==============================================
-1. 大阪大学大学院基礎工学研究科賞，2022年3月
+1. 大阪大学大学院基礎工学研究科賞，2022年3月．
