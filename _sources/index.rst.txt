@@ -31,25 +31,25 @@ Education
 ============================================
 Journal Article
 ============================================
-1. Shusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", Fluids and Barriers of the CNS, in review.
+1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", *Fluids and Barriers of the CNS*, in review.
 
 ============================================
 International Conference
 ============================================
-2. Shusaku Maeda, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, “Computational study of cerebrospinal fluid mixing in cerebral aqueduct in idiopathic normal pressure hydrocephalus patients”, 9th World Congress of Biomechanics 2022 Taipei. (accepted), semi-finalist.
+2. **Shusaku Maeda**, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, “Computational study of cerebrospinal fluid mixing in cerebral aqueduct in idiopathic normal pressure hydrocephalus patients”, 9th World Congress of Biomechanics 2022 Taipei. (accepted), semi-finalist.
 
-1. Shusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Naoki Takeishi, Shigeo Wada, “Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images”, Summer Biomechanics, Bioengineering and Biotransport Conference, June, 2021.
+1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Naoki Takeishi, Shigeo Wada, “Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images”, Summer Biomechanics, Bioengineering and Biotransport Conference, June, 2021.
 
 ============================================
 Domestic Conference
 ============================================
-4. 前田 修作，大谷智仁，Selin Yavuz Ilik，山田 茂樹，渡邊 嘉之，武石 直樹，和田 成生，“MRI計測に基づく正常圧水頭症の脳脊髄液流れの数値シミュレーション”，日本機械学会第33回バイオエンジニアリング講演会6月，2021年．
+4. **前田 修作**，大谷智仁，Selin Yavuz Ilik，山田 茂樹，渡邊 嘉之，武石 直樹，和田 成生，“MRI計測に基づく正常圧水頭症の脳脊髄液流れの数値シミュレーション”，日本機械学会第33回バイオエンジニアリング講演会6月，2021年．
 
-3. 前田 修作，大谷 智仁，Selin Yavuz Ilik，山田 茂樹，渡邊 嘉之，武石 直樹，和田 成生，”位相コントラストMRI計測に基づく正常圧水頭症における頭蓋内脳脊髄液動態の解析”，日本機械学会関西支部第96 期定時総会講演会，メガボケーション学生研究発表セッション，3月，2021年．
+3. **前田 修作**，大谷 智仁，Selin Yavuz Ilik，山田 茂樹，渡邊 嘉之，武石 直樹，和田 成生，”位相コントラストMRI計測に基づく正常圧水頭症における頭蓋内脳脊髄液動態の解析”，日本機械学会関西支部第96 期定時総会講演会，メガボケーション学生研究発表セッション，3月，2021年．
 
-2. 前田 修作，Selin Yavuz Ilik，大谷 智仁，武石 直樹，和田 成生，“ヒト脳室系における脳脊髄液流れの駆動メカニズム（ 数値流体力学シミュレーションによる検討）”，日本機械学会第31 回バイオフロンティア講演会，12月，2020年． 
+2. **前田 修作**，Selin Yavuz Ilik，大谷 智仁，武石 直樹，和田 成生，“ヒト脳室系における脳脊髄液流れの駆動メカニズム（ 数値流体力学シミュレーションによる検討）”，日本機械学会第31 回バイオフロンティア講演会，12月，2020年． 
 
-1. 前田 修作，北出 宏紀，武石 直樹，和田 成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020．
+1. **前田 修作**，北出 宏紀，武石 直樹，和田 成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020．
 
 ==============================================
 Grants
@@ -77,3 +77,13 @@ Scholarship
 Award
 ==============================================
 1. 大阪大学大学院基礎工学研究科賞，2022年3月．
+
+==============================================
+Research
+==============================================
+
+**正常圧水頭症患者の脳脊髄液流れの数値シミュレーション**
+
+キーワード：脳脊髄液流れ，正常圧水頭症，イメージベースドシミュレーション，数値流体解析，有限要素法，移動境界流れ
+
+.. image:: ./page.png
