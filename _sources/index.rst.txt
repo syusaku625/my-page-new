@@ -26,12 +26,10 @@ Education
 
 2013年4月-2018年3月　神戸市立工業高等専門学校機械工学科
 
-2010年4月-2013年3月　神戸市立本庄中学校
-
 ============================================
 Journal Article
 ============================================
-1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", *Fluids and Barriers of the CNS*, in review.
+1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", *Fluids and Barriers of the CNS*, in revision.
 
 ============================================
 International Conference
@@ -49,7 +47,7 @@ Domestic Conference
 
 2. **前田 修作**，Selin Yavuz Ilik，大谷 智仁，武石 直樹，和田 成生，“ヒト脳室系における脳脊髄液流れの駆動メカニズム（ 数値流体力学シミュレーションによる検討）”，日本機械学会第31 回バイオフロンティア講演会，12月，2020年． 
 
-1. **前田 修作**，北出 宏紀，武石 直樹，和田 成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020．
+1. **前田 修作**，北出 宏紀，武石 直樹，和田 成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020年．
 
 ==============================================
 Grants
